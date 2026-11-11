@@ -21,4 +21,4 @@ Une plateforme multicanal et inclusive :
 
 ##  L'Équipe : Les innovatrices
 * **Grace Eninam TCHASSIM** — Cheffe de Projet, Économie Internationale & Data Science.
-* **Anani Dédé Louise Sylvana** — Lead Développeur Full-Stack (Systèmes, Réseaux & Code).# Edzii-Nku
+* **Anani Dédé Louise Sylvana** — Lead Développeur Full-Stack (Systèmes, Réseaux & Code).
